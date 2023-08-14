@@ -1,0 +1,32 @@
+body{
+    background-image: url(../images/gettyimages-1.jpg);
+}
+
+.image{
+    width: 500px;
+    height: 500px;
+    border-radius: 250px;
+}
+
+.pix{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.message{
+    background-color: gray;
+    padding: 10px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 900px;
+    font-size: 30px;
+}
+
+.letter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
